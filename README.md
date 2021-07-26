@@ -53,3 +53,13 @@ Below given is the training and validation loss for netowrkf and networkf1
 
 ![collage](https://user-images.githubusercontent.com/63201896/126963642-23b4a992-e479-4328-b81e-86ebe237c691.png)
 
+## Defense against FGSM
+
+Below is the Test accuracy after defending the FGSM attack
+
+![defense_fgsm](https://user-images.githubusercontent.com/63201896/126964134-1b51042e-a8f2-4e9b-9547-517c08ca6b79.png)
+
+Examples of the predicitions after defense:
+
+![fgsm_defense_example](https://user-images.githubusercontent.com/63201896/126964391-379c946b-1ff0-4042-922d-aa53d4a5d967.png)
+
