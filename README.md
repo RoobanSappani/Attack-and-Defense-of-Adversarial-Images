@@ -63,3 +63,23 @@ Examples of the predicitions after defense:
 
 ![fgsm_defense_example](https://user-images.githubusercontent.com/63201896/126964391-379c946b-1ff0-4042-922d-aa53d4a5d967.png)
 
+## Defense against I-FGSM
+
+Below is the Test accuracy after defending the I-FGSM attack
+
+![ifgsm_defense](https://user-images.githubusercontent.com/63201896/126964690-eb42c297-04f5-40ff-b492-ec915318c064.png)
+
+Examples of the predicitions after defense:
+
+![ifgsm_defense_example](https://user-images.githubusercontent.com/63201896/126964788-6c4fdd46-e338-4986-b7ab-3fc16bf67cd5.png)
+
+## Defense against MI-FGSM
+
+Below is the Test accuracy after defending the MI-FGSM attack
+
+![mifgsm_defense](https://user-images.githubusercontent.com/63201896/126964928-f9b28f6d-b734-47da-b6d3-bc1b6c2d2c55.png)
+
+
+Examples of the predicitions after defense:
+
+![mifgsm_defense_example](https://user-images.githubusercontent.com/63201896/126965007-7237f9ca-02c1-4013-9f72-bdfcf7bc8e97.png)
