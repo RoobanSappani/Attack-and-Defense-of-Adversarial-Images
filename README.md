@@ -17,7 +17,12 @@ To countermeasure the above attacks, [distillation](https://arxiv.org/abs/1511.0
 
 # Results
 
-Below given is the training loss accross all the epochs.
+Below given is the training and validation loss accross all the epochs.
 
 ![training](https://user-images.githubusercontent.com/63201896/126961865-2f891157-00a3-4ad0-85cf-27647235690f.png)
 
+# Fast Gradient Sign Method
+
+Test Accuracy after FGSM attack
+
+![fgsm_graph](https://user-images.githubusercontent.com/63201896/126962188-4b0f9c4e-c556-4f42-a338-e037e6867b29.png)
