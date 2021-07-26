@@ -49,4 +49,7 @@ Examples of some adversial images:
 
 To countermeasure the above attacks, [distillation](https://arxiv.org/abs/1511.04508) was implemented.
 
-# Results
+Below given is the training and validation loss for netowrkf and networkf1
+
+![collage](https://user-images.githubusercontent.com/63201896/126963642-23b4a992-e479-4328-b81e-86ebe237c691.png)
+
